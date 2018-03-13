@@ -2,7 +2,7 @@
 
 All you need to kick off a laravel - backend - react - frontend project!
 
-# Setup
+## Setup
 To setup the laravel side of things run the following:
 
 `composer install`
@@ -13,7 +13,7 @@ And now for react, cd into `resources/assets` and then run:
 
 And thats it!
 
-# Deployment
+## Deployment
 To run the webpack watcher and the php server go to the root of the project and run:
 
 `sh runserver.sh`
